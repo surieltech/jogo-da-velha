@@ -1,28 +1,42 @@
 Jogo da Velha (Tic-Tac-Toe)
 Uma aplicação interativa do clássico Jogo da Velha construída com React. Dois jogadores se alternam marcando os espaços em um tabuleiro 3x3, e o primeiro a conseguir uma linha (horizontal, vertical ou diagonal) vence!
 
+https://via.placeholder.com/400?text=Pr%C3%A9via+do+Jogo
+(adicione uma captura de tela do seu projeto aqui)
+
 ✨ Funcionalidades
--Jogabilidade para dois jogadores (um usa X, o outro usa O)
--Indicação visual de quem ganhou a partida
--Botão Resetar para reiniciar o jogo a qualquer momento
--Interface limpa e responsiva com ícones personalizados (círculo e xis)
--Detecção automática de vitória em todas as direções possíveis
+Jogabilidade para dois jogadores (um usa X, o outro usa O)
+
+Indicação visual de quem ganhou a partida
+
+Botão Resetar para reiniciar o jogo a qualquer momento
+
+Interface limpa e responsiva com ícones personalizados (círculo e xis)
+
+Detecção automática de vitória em todas as direções possíveis
 
 🛠️ Tecnologias Utilizadas
--React (com Hooks: useState, useRef)
--CSS3 (layout flexível, cores temáticas)
--Imagens locais (círculo e xis importados via import)
+React (com Hooks: useState, useRef)
+
+CSS3 (layout flexível, cores temáticas)
+
+Imagens locais (círculo e xis importados via import)
 
 📦 Como executar o projeto
-1.Clone o repositório:
+Clone o repositório
+
+bash
 git clone https://github.com/seu-usuario/jogo-da-velha-react.git
 cd jogo-da-velha-react
+Instale as dependências
 
-2.Instale as dependências:
+bash
 npm install
+Inicie o servidor de desenvolvimento
 
-3.Inicie o servidor de desenvolvimento:
+bash
 npm start
+Abra o navegador em http://localhost:3000
 
 🎮 Como jogar
 O primeiro jogador começa com X.
