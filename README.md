@@ -1,9 +1,6 @@
 Jogo da Velha (Tic-Tac-Toe)
 Uma aplicação interativa do clássico Jogo da Velha construída com React. Dois jogadores se alternam marcando os espaços em um tabuleiro 3x3, e o primeiro a conseguir uma linha (horizontal, vertical ou diagonal) vence!
 
-https://via.placeholder.com/400?text=Pr%C3%A9via+do+Jogo
-(adicione uma captura de tela do seu projeto aqui)
-
 ✨ Funcionalidades
 Jogabilidade para dois jogadores (um usa X, o outro usa O)
 
